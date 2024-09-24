@@ -28,6 +28,8 @@ const Navbar = () => {
         >
           RM
         </Link>
+        <button id="translate-button">Traduzir para Português</button>
+
         <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (
             <button

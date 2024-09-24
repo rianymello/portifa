@@ -9,8 +9,8 @@ const projectsData = [
   
   {
     id: 16,
-    title: "Modelo de machine leraning pedra papel tesoura",
-    participation:"Criei um modelo de machine learning feito para ganhar 60% das vezes de 4 jogadores pre-criados.",
+    title: "Rock Paper Scissors Machine Learning Model",
+    participation:"I created a machine learning model designed to win 60% of the time against 4 pre-created players.",
     image: "/images/projects/pe3.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -19,7 +19,7 @@ const projectsData = [
   {
     id: 15,
     title: "Portifolio Web Designer",
-    participation:"Colaborei na criação de um portifolio usando React.js e Tailwind.",
+    participation:"I collaborated on creating a portfolio using React.js and Tailwind.",
     image: "/images/projects/p11.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -29,7 +29,7 @@ const projectsData = [
   {
     id: 17,
     title: "Portifolio Coding Student",
-    participation:"Colaborei na criação de um portifolio usando HTML, CSS e Javacript",
+    participation:"I collaborated on creating a portfolio using HTML, CSS, and JavaScript.",
     image: "/images/projects/p9.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -37,8 +37,8 @@ const projectsData = [
   },
   {
     id: 8,
-    title: "Associação de estudantes",  
-    participation:"Atuei como líder de equipe e desenvolvedora durante a execução do site",
+    title: "Student Association",  
+    participation:"I served as team leader and developer during the execution of the website.",
     image: "/images/projects/p4.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -47,9 +47,9 @@ const projectsData = [
   
   {
     id: 6,
-    title: "Antigo portifolio",
+    title: "Old Portfolio",
     
-    participation:"Nesse projeto explorei animações usando CSS e iniciei meus conhecimentos em desenvolvimento web responsivo",
+    participation:"In this project, I explored animations using CSS and started my knowledge in responsive web development.",
     image: "/images/projects/p1.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -59,7 +59,7 @@ const projectsData = [
     id: 7,
     title: "Woman Pi",
    
-    participation:"Fui lider do time de desenvolvedoras do projeto para criar a página web e criar uma presença oline para o projeto",
+    participation:"I was the leader of the development team for the project to create the website and establish an online presence for it.",
     image: "/images/projects/p2.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -68,7 +68,7 @@ const projectsData = [
   {
     id: 14,
     title: "Smart Routes",
-    participation:"Criei um App usando React Native feito para otimizar rotas e diminuir o congestinoamento nas estradas.",
+    participation:"I created an app using React Native designed to optimize routes and reduce congestion on the roads.",
     image: "/images/projects/pe3.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -77,8 +77,8 @@ const projectsData = [
  
   {
     id: 10,
-    title: "Meu portifolio pessoal",
-    participation:"Projeto criado com Next.js, Tailwind e Typescript usado pra armazenar apenas meu proejtos pessoais",
+    title: "Old Portfolio",
+    participation:"Project created with Next.js, Tailwind, and TypeScript used to store only my personal projects.",
     image: "/images/projects/p6.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -86,8 +86,8 @@ const projectsData = [
   },
   {
     id: 11,
-    title: "Re-criação de uma rede social",
-    participation:"Recriei a tela de uma rede social que permite comentar e curtir usando React.js",
+    title: "Recreation of a Social Network Feed.",
+    participation:"I recreated the interface of a social network that allows users to comment and like using React.js.",
     image: "/images/projects/p7.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -95,8 +95,8 @@ const projectsData = [
   },
   {
     id: 12,
-    title: "Palavras de Paz",
-    participation:"Fui desenvolvedora voluntária nessa Ong, trabalhando com Hooks, Next.js e Typescript. Criei interfaces a partir de designs no figma, e trabalhei na responsividade.",
+    title: "Palavras de Paz - Words of Peace",
+    participation:"I was a volunteer developer for this NGO, working with Hooks, Next.js, and TypeScript. I created interfaces from designs in Figma and worked on responsiveness.",
     image: "/images/projects/p8.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -105,8 +105,8 @@ const projectsData = [
 
   {
     id: 13,
-    title: "Artigos",
-    participation:"Artigos escritos por mim sobre inteligência artificial",
+    title: "Science and Technology Articles",
+    participation:"I wrote articles about artificial intelligence, female presence in STEM, mathematics, and science.",
     image: "/images/projects/p10.jpg",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -114,9 +114,8 @@ const projectsData = [
   },
    {
     id: 2,
-    title: "Pegada ecológica",
-    
-    participation:"Nesse projeto eu fui lider da equipe e criei o site usando HTML, CSS e Javascript. ",
+    title: "Ecological Footprint",
+    participation:"In this project, I was the team leader and created the website using HTML, CSS, and JavaScript. ",
     image: "/images/projects/e2.png",
     tag: ["All", "School"],
     gitUrl: "/",
@@ -124,8 +123,8 @@ const projectsData = [
   },
   {
     id: 9,
-    title: "Meu hub de links",
-    participation:"Criei um site com todos os meus links mais importantes usando HTML, CSS e Javascript",
+    title: "My Link Hub",
+    participation:"I created a website with all my most important links using HTML, CSS, and JavaScript.",
     image: "/images/projects/p5.png",
     tag: ["All", "Personal"],
     gitUrl: "/",
@@ -133,9 +132,9 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Tecnico de informática",
+    title: "IT Technician",
     
-    participation:"Nesse projeto eu programei o website usando HTML, CSS e Javascript",
+    participation:"In this project, I programmed the website using HTML, CSS, and JavaScript.",
     image: "/images/projects/e4.png",
     tag: ["All", "School"],
     gitUrl: "/",
@@ -144,8 +143,8 @@ const projectsData = [
   
   {
     id: 1,
-    title: "Exercícios da linguagem C",
-    participation:"Fizemos algoritmos simples para resolver problemas propostos",
+    title: "C Language Exercises",
+    participation:"I created simple algorithms to solve problems presented in programming classes.",
     image: "/images/projects/e1.jpg",
     tag: ["All", "School" ],
     gitUrl: "/",
@@ -153,9 +152,9 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "Exercícios de SQL",
+    title: "SQL Exercises",
     
-    participation:"Criei base de dados explorando conceitos como tabelas e colunas",
+    participation:"I created a database exploring concepts such as tables and columns.",
     image: "/images/projects/e3.png",
     tag: ["All", "School"],
     gitUrl: "/",

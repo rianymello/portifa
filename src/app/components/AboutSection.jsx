@@ -10,14 +10,15 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Python</li>
-        <li>Node.js</li>
         <li>JavaScript</li>
         <li>React.js</li>
         <li>Next.js</li>
         <li>Git and Github</li>
-        <li>HTML e CSS</li>
-        <li>Linguagem C</li>
+        <li>HTML and CSS</li>
+        <li> C and C#</li>
         <li>SQL</li>
+        <li>Tailwind</li>
+        <li>Node.js</li>
       </ul>
     ),
   },
@@ -26,12 +27,14 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Technical high school in management and programming of computer systems - ETAP escola profissional</li>
+        <li><a href="">Technical high school in management and programming of computer systems - ETAP escola profissional</a></li>
         <li> CS50 Introduction to Computer Science - Harvard University</li>
         <li>Ignite and Discovery courses - Rocketseat</li>
         <li>Course Responsive Web Design - FreeCodeCamp</li>
         <li>Machine Learning with Python - FreeCodeCamp</li>
         <li> Intro to Machine Learning - Kaggle</li>
+        <li>#ElasNaIA - artificial intelligence mentoring </li>
+        <li>Latin American Leadership Academy - LALA Bootcamp</li>
       </ul>
     ),
   },
@@ -40,8 +43,16 @@ const TAB_DATA = [
     id: "experiences",
     content: (
       <ul className="list-disc pl-2">
-        <li>Volunteer Front-end Developer for <a className="dark:md:hover:text-fuchsia-600" href="https://www.palavrasdepaz.org/">ONG Palavras de Paz</a></li>
-        <li>Volunteer Front-end Developer for <a className="dark:md:hover:text-fuchsia-600" href="#">Woman pi</a></li>       
+        <li><a className="dark:md:hover:text-fuchsia-600" href="https://www.instagram.com/stemforwomenbr/">STEM for Woman</a> Founder & Web Development Team Leader</li>
+        <li><a className="dark:md:hover:text-fuchsia-600" href="#">Local Projects and NGOs</a>- Volunteer Dev & Tech Team Lead</li> 
+        <li><a className="dark:md:hover:text-fuchsia-600" href="https://www.jovenscientistasbrasil.com.br/"> JCB Jovens Cientistas Brasil </a> & <a className="dark:md:hover:text-fuchsia-600" href="">Medium </a>- Sci-Tech Article Writer</li>   
+        <li><a className="dark:md:hover:text-fuchsia-600" href="">Technovation Girls </a>- Volunteer Mentor </li>     
+        <li><a className="dark:md:hover:text-fuchsia-600" href=""> GE - Geração de Entusiastas </a>- Leader, Choreographer, and Event Planner </li>      
+        <li><a className="dark:md:hover:text-fuchsia-600" href=""> Latin American Leadership Academy </a> - Participant </li>      
+        <li>Runner-up - Immerse Education Essay Competition<a className="dark:md:hover:text-fuchsia-600" href=""> (2023)  </a> and <a className="dark:md:hover:text-fuchsia-600" href="">(2024)</a> </li>      
+        <li><a className="dark:md:hover:text-fuchsia-600" href=""> Uber Global Hackathon </a> - Regional Finalist  </li>      
+        <li><a className="dark:md:hover:text-fuchsia-600" href=""> Latin American Leadership Academy </a> - Participant </li>      
+        <li>Qualified for the second stage in the<a className="dark:md:hover:text-fuchsia-600" href=""> Brazilian Artificial Intelligence Olympiad </a> and the <a className="dark:md:hover:text-fuchsia-600" href=""> Site Star Competition</a> </li>      
       </ul>
     ),
   },
