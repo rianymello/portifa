@@ -43,16 +43,16 @@ const TAB_DATA = [
     id: "experiences",
     content: (
       <ul className="list-disc pl-2">
-        <li><a className="dark:md:hover:text-fuchsia-600" href="https://www.instagram.com/stemforwomenbr/">STEM for Woman</a> Founder & Web Development Team Leader</li>
-        <li><a className="dark:md:hover:text-fuchsia-600" href="#">Local Projects and NGOs</a>- Volunteer Dev & Tech Team Lead</li> 
-        <li><a className="dark:md:hover:text-fuchsia-600" href="https://www.jovenscientistasbrasil.com.br/"> JCB Jovens Cientistas Brasil </a> & <a className="dark:md:hover:text-fuchsia-600" href="">Medium </a>- Sci-Tech Article Writer</li>   
-        <li><a className="dark:md:hover:text-fuchsia-600" href="">Technovation Girls </a>- Volunteer Mentor </li>     
-        <li><a className="dark:md:hover:text-fuchsia-600" href=""> GE - Geração de Entusiastas </a>- Leader, Choreographer, and Event Planner </li>      
-        <li><a className="dark:md:hover:text-fuchsia-600" href=""> Latin American Leadership Academy </a> - Participant </li>      
-        <li>Runner-up - Immerse Education Essay Competition<a className="dark:md:hover:text-fuchsia-600" href=""> (2023)  </a> and <a className="dark:md:hover:text-fuchsia-600" href="">(2024)</a> </li>      
-        <li><a className="dark:md:hover:text-fuchsia-600" href=""> Uber Global Hackathon </a> - Regional Finalist  </li>      
-        <li><a className="dark:md:hover:text-fuchsia-600" href=""> Latin American Leadership Academy </a> - Participant </li>      
-        <li>Qualified for the second stage in the<a className="dark:md:hover:text-fuchsia-600" href=""> Brazilian Artificial Intelligence Olympiad </a> and the <a className="dark:md:hover:text-fuchsia-600" href=""> Site Star Competition</a> </li>      
+        <li><a className="dark:md:hover:text-fuchsia-600 underline" href="https://www.instagram.com/stemforwomenbr/">STEM for Woman</a> Founder & Web Development Team Leader</li>
+        <li><a className="dark:md:hover:text-fuchsia-600 underline" href="#">Local Projects and NGOs</a>- Volunteer Dev & Tech Team Lead</li> 
+        <li><a className="dark:md:hover:text-fuchsia-600 underline" href="https://www.jovenscientistasbrasil.com.br/"> JCB Jovens Cientistas Brasil </a> & <a className="dark:md:hover:text-fuchsia-600 underline" href="https://medium.com/@mello.riany">Medium </a>- Sci-Tech Article Writer</li>   
+        <li><a className="dark:md:hover:text-fuchsia-600 underline" href="https://drive.google.com/drive/folders/1awehmxqgUmCAidU7TP5HQ3J5Kuw6Pzuc">Technovation Girls </a>- Volunteer Mentor </li>     
+        <li><a className="dark:md:hover:text-fuchsia-600 underline" href="https://www.youtube.com/live/w9EQaTXztAI?si=pMrG12zmuxabnzNE"> GE - Geração de Entusiastas </a>- Leader, Choreographer, and Event Planner </li>      
+        <li><a className="dark:md:hover:text-fuchsia-600 underline" href="https://latinamericanleadershipacademy.org/?gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1A9nJA_fbcC9xJ_P3xlx3na9LWnUmbKcBYvtupQSRj0S0Q_s0qAtVxoCXLoQAvD_BwE"> Latin American Leadership Academy </a> - Participant </li>      
+        <li>Runner-up - Immerse Education Essay Competition<a className="dark:md:hover:text-fuchsia-600 underline" href="https://www.linkedin.com/in/rianymello/details/honors/1705861624055/single-media-viewer/?profileId=ACoAADLpTs4BRAOcLswUtScM_-OiwuiJRqD5ZJ4"> (2023)  </a> and <a className="dark:md:hover:text-fuchsia-600 underline" href="https://www.virtualbadge.io/certificate-validator?credential=2e6f92fb-577e-44ba-8284-7df8999a2174">(2024)</a> </li>      
+        <li><a className="dark:md:hover:text-fuchsia-600 underline" href="https://drive.google.com/file/d/1UwsyP0IzbKPO9ti6SAX4Wk-bMianR6_0/view"> Uber Global Hackathon </a> - Regional Finalist  </li>      
+        <li><a className="dark:md:hover:text-fuchsia-600 underline" href="https://drive.google.com/drive/folders/1awehmxqgUmCAidU7TP5HQ3J5Kuw6Pzuc"> Latin American Leadership Academy </a> - Participant </li>      
+        <li>Qualified for the second stage in the<a className="dark:md:hover:text-fuchsia-600 underline" href="https://drive.google.com/drive/folders/1awehmxqgUmCAidU7TP5HQ3J5Kuw6Pzuc"> Brazilian Artificial Intelligence Olympiad </a> and the <a className="dark:md:hover:text-fuchsia-600 underline" href="https://www.sitestar.pt/"> Site Star Competition</a> </li>      
       </ul>
     ),
   },
